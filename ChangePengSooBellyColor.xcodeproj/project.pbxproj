@@ -13,6 +13,8 @@
 		92E8D9532386774500A4BD10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92E8D9512386774500A4BD10 /* Main.storyboard */; };
 		92E8D9552386775000A4BD10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92E8D9542386775000A4BD10 /* Assets.xcassets */; };
 		92E8D9582386775000A4BD10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92E8D9562386775000A4BD10 /* LaunchScreen.storyboard */; };
+		92E8D9602386B82400A4BD10 /* bellyColorChangedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E8D95F2386B82400A4BD10 /* bellyColorChangedViewController.swift */; };
+		92E8D9622386B84D00A4BD10 /* getHeadSetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E8D9612386B84D00A4BD10 /* getHeadSetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		92E8D9542386775000A4BD10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92E8D9572386775000A4BD10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92E8D9592386775000A4BD10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92E8D95F2386B82400A4BD10 /* bellyColorChangedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bellyColorChangedViewController.swift; sourceTree = "<group>"; };
+		92E8D9612386B84D00A4BD10 /* getHeadSetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getHeadSetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				92E8D94D2386774500A4BD10 /* SceneDelegate.swift */,
 				92E8D94F2386774500A4BD10 /* ViewController.swift */,
 				92E8D9512386774500A4BD10 /* Main.storyboard */,
+				92E8D95F2386B82400A4BD10 /* bellyColorChangedViewController.swift */,
+				92E8D9612386B84D00A4BD10 /* getHeadSetViewController.swift */,
 				92E8D9542386775000A4BD10 /* Assets.xcassets */,
 				92E8D9562386775000A4BD10 /* LaunchScreen.storyboard */,
 				92E8D9592386775000A4BD10 /* Info.plist */,
@@ -138,7 +144,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92E8D9602386B82400A4BD10 /* bellyColorChangedViewController.swift in Sources */,
 				92E8D9502386774500A4BD10 /* ViewController.swift in Sources */,
+				92E8D9622386B84D00A4BD10 /* getHeadSetViewController.swift in Sources */,
 				92E8D94C2386774500A4BD10 /* AppDelegate.swift in Sources */,
 				92E8D94E2386774500A4BD10 /* SceneDelegate.swift in Sources */,
 			);
